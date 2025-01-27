@@ -1,2 +1,2 @@
 all:
-	gcc trip.c -o trip
+	gcc trip.c -o tripc
